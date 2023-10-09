@@ -1,4 +1,1 @@
-Hello Im Landix,
-I am currently learning and getting into HTML&CSS.
-I am making my first Website and getting to Github. 
-you can reach me on Discord  Landix btw#2379
+wannabe discord js dev
